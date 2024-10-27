@@ -1,0 +1,5 @@
+## Flag
+brAInwave{d3c0mp1l3r5_4re_fun_4r3nt_7h3y}
+
+## Solution
+Just decompile it :)
